@@ -1,18 +1,10 @@
-# EC400 Class Resources
+# EC221 Class Resources
 
-This page is a list of notes I wrote teaching my online classes for EC400 Probability and Statistics in September 2021
+Welcome! This is where I'll post any bonus resources for EC221 (MT and LT) for the classes that I teach
 
 Please email me if you have any questions!
+Link to the [course moodle](https://moodle.lse.ac.uk/course/view.php?id=4816)
 
-* **Class 1 - Foundations:** cdfs, pdfs, problem solving ideas, and why you should care about probability: [here](Class 1.pdf)
-	* An extension to the penalty shootout question - what's the probability of winning overall? [python script](Penalties.py)
-	* A presentation I made for one of the PhD reading groups at LSE introducing Bayesian estimation and applying it to Bayesian Hierarchical models - a tool to evaluate internal vs external validity (how far studies generalise to other situations) [here](Bayes_Hierarchical_Models_etc.pdf)
-* **Class 2 - Conditionals and Marginals:** Double integrals, the importance of drawing diagrams, and slices of mountains [here](Class 2.pdf)
-* **Class 3 - Change of Variables for pdfs:** How it's really integration by substitution, plus a quick tutorial on multivariate integrals [here](Class 3.pdf)
-* **Class 4 - Estimation:** Solving MLE in (at least) 3 ways, don't just blindly take FOCs, the hierarchy of estimation, and how to think about 'doing' econometrics [here](Class 4.pdf)
-	* An [article](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229) about the bias / variance tradeoff. It's written for machine learning people, but it's the same concept as the one I was talking about. The rough idea: a _more complex_ way of modelling something leads to estimates with less bias but more variance. For example: think of running OLS with many regressors (y=x'b + e); more regressors x means that your model of the conditional expectation function (CEF) is more complex. The more regressors, the closer your x'b is to the true CEF, but in doing so your estimate of b will be worse, as your data has to estimate more things
-	* Some terminology: _overfitting / underfitting_ refers to how complex we make this model for the CEF. _Training data_ means the data we use to build our estimator. _Test data_ is data we might use to test how good our model is (ie by seeing how good the prediction is). _Supervised Learning_ is a class of machine learning procedures, which all of our usual examples (such as linear regression) fit into. The bias / variance tradeoff is a concept to do with prediction, but the intuition behind it is what underlies the James-Stein-like methods (known as _regularisation_ or _shrinkage_ methods)
-	* The idea for the Lasso is that some coefficients are shrunk to 0. This means that the model you actually end up calculating has more bias but less variance - as effectively you end up running something close to OLS but with fewer regressors than you started with. This tradeoff can lead to (much!) lower MSE than OLS with many regressors
-	* The [Wikipedia](https://en.wikipedia.org/wiki/James–Stein_estimator) article for the James-Stein. The logic is the same as above - by shrinking coefficients to 0 you get lower MSE. It's a toy example meant for a simple situation, but people realised based on it that the principle holds more generally: so we shouldn't necessarily aim for unbiasedness!
-* **Class 5 - Hypothesis Testing:** Court case example, p values vs critical. values, and why most published do it badly [here](Class 5.pdf). Sorry for the unreadability - the tablet was having problems!
-	* Some notes on estimation, hypothesis testing and how to do applied micro from a previous course I taught [here](Lightning_Research_Stats.pdf)
+* **MT week 2:** [Slides]("EC221 MT2 Class.pdf") on an introduction to the course and on Stata
+
+More coming soon!
