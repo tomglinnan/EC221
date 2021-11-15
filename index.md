@@ -11,6 +11,7 @@ Link to the [course moodle](https://moodle.lse.ac.uk/course/view.php?id=4816)
 	* [A note on Robust Standard Errors](Robust SEs.pdf) - a few people were asking me about how these work, but unfortunately nearly all material online explains them using matrices. This note goes through what they are, why (and when) we should use them, and also shows how they're computed in a simple case (which doesn't require matrices). Remember: this material isn't examinable in MT, and we'll get back to it all properly in LT!
 	* [A note on Interaction Effects](Interaction Effects.pdf) - people sometimes have problems with this the first time they see it, so I've added in my explanation of how they work and why we should care about them (to supplement Lecture 15)
 * **MT week 7:** [Exam Tips](Exam Tips.pdf) - some of my thoughts on how to revise for the MT exam, where to get resources, and what might help in transitioning back to in-person exams
+* **MT week 8:** [Controls Tutorial](https://ftp.cs.ucla.edu/pub/stat_ser/r493.pdf) - a more complete tutorial on good on bad controls, written for computer scientists. Importantly, you'll see in the description that everything is rigorously defined. Be aware of different notation used: eg saying Y_i | do(X=1) instead of Y_1i
 
 
 
