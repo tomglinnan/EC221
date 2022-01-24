@@ -3,6 +3,7 @@ Welcome! This is where I'll post any bonus resources for EC221 (MT and LT) for t
 # LT Material
 * **What is the LT about? A `Lecture 0'** [here](EC221_Lecture_0.pdf). This is all about how to think about the LT part of the course, and how it fits with both the MT and what we've studied before. Hopefully this can help you see the big picture of what we're doing, if you're totally lost
 * **A (hopefully!) intuitive guide to Linear Algebra** [here](Intuitive_Guide_Linear_Algebra.pdf). This is a short set of notes (about 10 pages) which covers the intuition behind the linear algebra we use in various parts of the LT of the course. I want to emphasise: you **do not** need to master this before you can start looking at the course. However, it might be useful for you to clarify what you semi-remember, or never really understood in the first place, and you can use it as a reference later in the term. It's designed to complement the help lectures organised as part of EC221, which tackle similar material but focus more on formality than intuition
+* **Deriving OLS: a step-by-step guide** [here](Deriving_OLS__step_by_step.pdf). This is more relevant for week 2 onwards once we've seen some more material. It's an application for lots of the things we've covered in class so far (matrix derivatives, properties of X'X), so worth looking at if you want to see where we're heading (and also after you've covered the material itself)
 
 
 ## MT Material
