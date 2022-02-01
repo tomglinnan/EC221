@@ -5,6 +5,7 @@ Welcome! This is where I'll post any bonus resources for EC221 (MT and LT) for t
 * **A (hopefully!) intuitive guide to Linear Algebra** [here](Intuitive_Guide_Linear_Algebra.pdf). This is a short set of notes (about 10 pages) which covers the intuition behind the linear algebra we use in various parts of the LT of the course. I want to emphasise: you **do not** need to master this before you can start looking at the course. However, it might be useful for you to clarify what you semi-remember, or never really understood in the first place, and you can use it as a reference later in the term. It's designed to complement the help lectures organised as part of EC221, which tackle similar material but focus more on formality than intuition
 * **Deriving OLS: a step-by-step guide** [here](Deriving_OLS__step_by_step.pdf). This is more relevant for week 2 onwards once we've seen some more material. It's an application for lots of the things we've covered in class so far (matrix derivatives, properties of X'X), so worth looking at if you want to see where we're heading (and also after you've covered the material itself)
 * **Multivariate Normals:** [here](Multivariate_Normals.pdf). A quick guide to what they are, what the parameters mean and roughly when we use them
+* **Cheat Sheet for Proofs in EC221:** [here](Proofs_in_EC221__A_Cheat_Sheet.pdf). A list of a few things to think about when doing or understanding proofs in EC221. I'll update it if I think of more as the course goes on
 
 
 ## MT Material
