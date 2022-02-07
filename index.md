@@ -6,6 +6,8 @@ Welcome! This is where I'll post any bonus resources for EC221 (MT and LT) for t
 * **Deriving OLS: a step-by-step guide** [here](Deriving_OLS__step_by_step.pdf). This is more relevant for week 2 onwards once we've seen some more material. It's an application for lots of the things we've covered in class so far (matrix derivatives, properties of X'X), so worth looking at if you want to see where we're heading (and also after you've covered the material itself)
 * **Multivariate Normals:** [here](Multivariate_Normals.pdf). A quick guide to what they are, what the parameters mean and roughly when we use them
 * **Cheat Sheet for Proofs in EC221:** [here](Proofs_in_EC221__A_Cheat_Sheet.pdf). A list of a few things to think about when doing or understanding proofs in EC221. I'll update it if I think of more as the course goes on
+* **Notes from Class 4 (online, due to Covid):** [here](EC221 Class 3.pdf). The notes from the second class were a bit cleaner so these are those ones
+* **Notes on Standard Errors on Multivariate Regressions:** [here](Standard_Errors_in_Multivariate_Regression.pdf). Hopefully I've spelled out clearly enough how the LT material links to things from the MT. So much of the partitioned regression lecture is stuff we've done before!
 
 
 ## MT Material
