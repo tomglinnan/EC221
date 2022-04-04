@@ -8,7 +8,7 @@ Welcome! This is where I'll post any bonus resources for EC221 (MT and LT) for t
 * **Cheat Sheet for Proofs in EC221:** [here](Proofs_in_EC221__A_Cheat_Sheet.pdf). A list of a few things to think about when doing or understanding proofs in EC221. I'll update it if I think of more as the course goes on
 * **Notes from Class 4 (online, due to Covid):** [here](EC221 Class 3.pdf). The notes from the second class were a bit cleaner so these are those ones
 * **Notes on Standard Errors on Multivariate Regressions:** [here](Standard_Errors_in_Multivariate_Regression.pdf). Hopefully I've spelled out clearly enough how the LT material links to things from the MT. So much of the partitioned regression lecture is stuff we've done before!
-* **Hypothesis Testing Notes:** [here](Hypothesis_Testing.pdf). Testing from first principles, W/LM/LR, how to learn and how to implement tests
+* **Hypothesis Testing Notes:** [here](Hypothesis_Testing.pdf). Testing from first principles, W/LM/LR, how to learn and how to implement tests (including the LM test with nR^2)
 
 
 ## MT Material
